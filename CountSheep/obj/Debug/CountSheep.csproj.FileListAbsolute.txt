@@ -1,0 +1,6 @@
+c:\users\derek\documents\visual studio 2015\Projects\CountSheep\CountSheep\bin\Debug\CountSheep.exe.config
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\CountSheep\CountSheep\bin\Debug\CountSheep.exe
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\CountSheep\CountSheep\bin\Debug\CountSheep.pdb
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\CountSheep\CountSheep\obj\Debug\CountSheep.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\CountSheep\CountSheep\obj\Debug\CountSheep.exe
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\CountSheep\CountSheep\obj\Debug\CountSheep.pdb
